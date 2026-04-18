@@ -1,6 +1,10 @@
-# VR Kinematic Interaction System
+# Prelancer Systems
 
-A lightweight kinematic interaction system for VR focused on precision and flexibility.
+A lightweight collection of systems for VR focused on precision and flexibility.
+
+### What's included:
+KINEMATIC INTERACTION SYSTEM > An origin-based tracking interaction system
+Possibly more systems in the future!
 
 ## Overview
 
@@ -20,10 +24,11 @@ This system is not entirely 'plug-and-play' it does require minor setup to use.
 
 Free to use in personal and commercial projects!
 
-- You may **not sell or redistribute this system on its own**  
-- You may **include it as part of a larger system (or vehicle) and sell that**
+- You may **not sell or redistribute these systems on their own**  
+- You may **include them as part of a larger system (or vehicle) and sell that**
 
-If you use this system, giving credit is appreciated! :)
+If you use any of the systems, giving credit is appreciated! :)
+Provide a link to this github and share it!!!
 
 ## Setup Guide
 
