@@ -1,0 +1,35 @@
+# VR Kinematic Interaction System
+
+A lightweight kinematic interaction system for VR focused on precision and flexibility.
+
+## Overview
+
+This system uses an origin-point tracking approach to keep interactions stable and accurate.
+By working from defined reference points instead of relying purely on world space, it allows for smooth,
+reliable object handling in VR. It's function-output basis allows for easily expandability.
+
+### Expandable design for:
+  - Vehicles  
+  - Interactive objects  
+  - Moving interaction systems  
+
+Disclaimer:
+This system is not entirely 'plug-and-play' it does require minor setup to use.
+
+## Usage
+
+Free to use in personal and commercial projects!
+
+- You may **not sell or redistribute this system on its own**  
+- You may **include it as part of a larger system (or vehicle) and sell that**
+
+If you use this system, giving credit is appreciated! :)
+
+## Setup Guide
+
+1. Download the UnityPackage from releases on the right.
+2. Import into your project.
+3. Configure your interaction points.
+4. Duplicate your interaction points to the external object.
+5. Assign required fields on system script.
+6. Assign functions as needed.
