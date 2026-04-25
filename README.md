@@ -5,7 +5,6 @@ A lightweight collection of systems for VR focused on precision and flexibility.
 ### What's included:
 KINEMATIC INTERACTION SYSTEM > An origin-based tracking interaction system
 Possibly more systems in the future!
-
 ## Overview
 
 This system uses an origin-point tracking approach to keep interactions stable and accurate.
@@ -19,6 +18,8 @@ reliable object handling in VR. It's function-output basis allows for easily exp
 
 Disclaimer:
 This system is not entirely 'plug-and-play' it does require minor setup to use.
+You will need basic unity/c#/u# knowledge to use this. This system is not intended
+for first-time unity users.
 
 ## Usage
 
